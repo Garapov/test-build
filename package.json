@@ -11,7 +11,7 @@
   "author": "Garapov Ruslan",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "latest",
+    "browser-sync": "2.23.6",
     "bs-console-qrcode": "latest",
     "del": "latest",
     "dotenv": "latest",
@@ -37,8 +37,8 @@
     "gulp-webpcss": "latest",
     "ngrok": "latest",
     "sass": "latest",
+    "webp-converter": "2.2.3",
     "webpack": "latest",
-    "webpack-stream": "latest",
-    "webp-converter": "2.2.3"
+    "webpack-stream": "latest"
   }
 }
